@@ -1,8 +1,28 @@
-.column {
-  width: 300px;
-  color: fuchsia;
-  font-weight: 400;
-  float: right;
-
+body {
+  width: 800px;
 }
 
+img.banner {
+  width: 800px;
+}
+
+.Exterior {
+  width: 350px;
+  height: 350px;
+  color: fuchsia;
+  font-weight: 400;
+  float: left;
+}
+
+.Interior {
+    width: 350px;
+    height: 350px;
+    color: fuchsia;
+    font-weight: 400;
+    float: right;
+  }
+
+div img {
+  width: 350px;
+  height: 350px;
+}
